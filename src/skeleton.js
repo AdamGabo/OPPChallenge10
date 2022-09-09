@@ -71,7 +71,7 @@ module.exports = page => {
         <!DOCTYPE html>
         <html lang="en">
         <head>
-            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=yes" />
             <meta charset="UTF-8" />
             <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
             <title>TEAM GENERATION PAGE</title>
@@ -83,7 +83,7 @@ module.exports = page => {
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-12 title">
-                        <h1 class="text-black text-center">The Team of Dreams</h1>
+                        <nav class="text-black text-center">The Team of Dreams</nav>
                     </div>
                 </div>
             </div>

@@ -210,7 +210,7 @@ function getManager() {
           }
       }
     ]).then(results => {
-      const intern = new Intern(results.iName, results.iId, results.iEmail, results.internSchool);
+      const intern = new Intern(results.iName, results.iId, results.iEmail, results.iSchool);
       employeeArray.push(intern);
       createObjects();
     });
