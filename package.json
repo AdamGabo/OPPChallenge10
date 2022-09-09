@@ -1,0 +1,28 @@
+{
+  "name": "challenge-10-redo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000e\u0000a\u0000m\u0000P\u0000r\u0000o\u0000f\u0000i\u0000l\u0000e\u0000G\u0000e\u0000n\u0000e\u0000r\u0000a\u0000t\u0000o\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamGabo/OPPChallenge10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamGabo/OPPChallenge10/issues"
+  },
+  "homepage": "https://github.com/AdamGabo/OPPChallenge10#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
